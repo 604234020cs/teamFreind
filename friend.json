@@ -1,64 +1,33 @@
-[
-  
-   
-   
+[   
  { 
 
-	"studentID": "604234020",
-     
+	"studentID": "604234020",    
  	"firstName": "Wanida",
-      
 	"lastName": "Baikodem",
-      
 	"nickName": "Nida",
-      
 	"major": "ComputerScience",
-      
 	"birthday": "1998-11-14",
-      
 	"picture": "https://raw.githubusercontent.com/604234020cs/teamFreind/master/50969913_2212864652259055_3463945270876700672_n.jpg"
     
  },
- 
-   
-
  { 
-	"studentID": "604234028",
-
-     	"firstName": "A-deenas",
-
-      	"lastName": "Sabubok",
-      
+	"studentID": "604234028"
+   "firstName": "A-deenas",
+   "lastName": "Sabubok",   
 	"nickName": "Nas",
-      
 	"major": "ComputerScience",
-    
   	"birthday": "1998-08-30",
-   
-   	"picture": "https://raw.githubusercontent.com/604234020cs/teamFreind/master/50934432_357095941791345_3950418735977725952_n.jpg"
-    
+   	"picture": "https://raw.githubusercontent.com/604234020cs/teamFreind/master/50934432_357095941791345_3950418735977725952_n.jpg" 
  },
-    
-
-
  { 
 	"studentID": "604234030",
- 
      	"firstName": "Arawee",
-     
  	"lastName": "Ma-eakhien",
-      
 	"nickName": "Vee",
-      
 	"major": "ComputerScience",
-     
  	"birthday": "1998-01-02",
-      
-	"picture": "https://raw.githubusercontent.com/604234020cs/teamFreind/master/51216197_2042354512517361_146655300454187008_n.jpg"
-   
- 
- }
-,  
+	"picture": "https://raw.githubusercontent.com/604234020cs/teamFreind/master/51216197_2042354512517361_146655300454187008_n.jpg" 
+ },  
 
 ]
   
